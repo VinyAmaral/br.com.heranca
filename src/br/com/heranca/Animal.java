@@ -2,7 +2,6 @@ package br.com.heranca;
 
 public class Animal {
 
-	//Atributos - Adjetivos
 	private String nome;
 	private int idade;
 	
@@ -23,16 +22,8 @@ public class Animal {
 		this.idade = idade;
 	}
 
-	//Métodos --> ações ---> verbalização
-	public void somAnimal() {
+
 		
 	}
-	
-	public void correr() {
-		
-	}
-	
-	public void subir() {
-		
-	}
-}
+
+
